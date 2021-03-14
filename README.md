@@ -26,6 +26,12 @@ def read_data(file_name):
     return csv_reader
 ```
 
+```python
+file_path = "/file/path/of/the_file/aug_train.csv"
+res = read_data(file_name=file_path)
+print(res.head(5))
+```
+
 ### Data Transformation and Cleaning
 
 
