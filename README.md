@@ -11,4 +11,17 @@ For data manipulation can be multiple ways to perform an ETL. There is the possi
 
 
 ### Data set
-The datase is from kaggle [link](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
+The datase is from kaggle [link](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists) and is in the .csv format 
+
+
+### Extract data from the file
+
+
+### Data Transformation and Cleaning
+
+
+
+### Data manipulation
+
+
+### Create cleaned dataset
